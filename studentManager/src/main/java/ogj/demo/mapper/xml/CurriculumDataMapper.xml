@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="ogj.demo.Mapper.CurriculumDataMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="ogj.demo.Entity.CurriculumData">
+        <id column="Course_Id" property="courseId" />
+        <result column="Course_name" property="courseName" />
+        <result column="Course_type" property="courseType" />
+        <result column="Course_time" property="courseTime" />
+        <result column="Course_credit" property="courseCredit" />
+    </resultMap>
+
+</mapper>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer-user/consumer-user.iml" filepath="$PROJECT_DIR$/consumer-user/consumer-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../代码/代码/demo-mybatis/demo-mybatis.iml" filepath="$PROJECT_DIR$/../../代码/代码/demo-mybatis/demo-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-ticket/provider-ticket.iml" filepath="$PROJECT_DIR$/provider-ticket/provider-ticket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-user/studentManage.iml" filepath="$PROJECT_DIR$/consumer-user/studentManage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentManager/studentManager.iml" filepath="$PROJECT_DIR$/studentManager/studentManager.iml" />
+    </modules>
+  </component>
+</project>

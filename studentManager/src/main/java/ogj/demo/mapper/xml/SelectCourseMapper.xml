@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="ogj.demo.Mapper.SelectCourseMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="ogj.demo.Entity.SelectCourse">
+        <id column="college_id" property="collegeId" />
+        <result column="major_id" property="majorId" />
+        <result column="student_id" property="studentId" />
+        <result column="Course_Id" property="courseId" />
+    </resultMap>
+
+</mapper>
